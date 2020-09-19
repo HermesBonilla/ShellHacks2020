@@ -2,6 +2,9 @@ import PIL
 import os
 
 def main():
+"""
+Creates noise in our dataset to train the denoising model
+"""
     out_dir = ""
     images_dir = ""
     for image in os.listdir(images_dir):
