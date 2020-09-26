@@ -3,10 +3,10 @@
 Welcome to our Neural Network Workshop at [ShellHacks 2020](https://shellhacks.net/)!
 
 ## Contents
-  ### DeRes Script
+  #### DeRes Script
     - To run the script to create a dersolution face dataset (Not used in this workshop, but useful anyhow!)
   
-  ### Django Image Classifier
+  #### Django Image Classifier
     - The Django folder contains all the files needed for our netlify site implmentation
     - Model used: Convolutional Neural Network (CNN)
 
