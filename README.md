@@ -1,6 +1,6 @@
 # ShellHacks2020 Neural Network Workshop
 
-Welcome to our Neural Network Workshop at ShellHacks 2020!
+Welcome to our Neural Network Workshop at [ShellHacks 2020](https://shellhacks.net/)!
 
 ## DeRes Script
   - To run the script to create a dersolution face dataset (Not used in this workshop, but useful anyhow!)
