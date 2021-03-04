@@ -63,6 +63,6 @@ Welcome to our Neural Network Workshop at [ShellHacks 2020](https://shellhacks.n
 ---
 
 - [Workshop Slides](https://docs.google.com/presentation/d/1a0WRuEHIr7HNCJbs-l3ocstHtAtfSL8GbBNvRIgH0lU/edit#slide=id.g96c15fa444_1_3)
-- [Youtube Video](https://www.youtube.com/watch?v=N7V_5FmjOug&feature=youtu.be&t=438)
+- [Youtube Video](https://youtu.be/N7V_5FmjOug)
 - [Become a Google DSC FIU Member!](https://go.fiu.edu/dscsignup)
 
