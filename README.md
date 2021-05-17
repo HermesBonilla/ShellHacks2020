@@ -34,8 +34,14 @@ Welcome to our Neural Network Workshop at [ShellHacks 2020](https://shellhacks.n
   ```
   conda activate [environment name]
   ```
+  
+  5. Change your directory into the django project folder:
       
-  5. Install dependencies from requirements.txt file:
+  ```
+  cd django_image_classifier/django_image_classifier
+  ```
+  
+  6. Install dependencies from requirements.txt file:
   ```
   pip install -r requirements.txt
   
@@ -43,13 +49,7 @@ Welcome to our Neural Network Workshop at [ShellHacks 2020](https://shellhacks.n
   
   pip3 install -r requirements.txt
   ```
-      
-  6. Change your directory into the django project folder:
-      
-  ```
-  cd django_image_classifier
-  ```
-      
+         
   7. Activate the server in localhost:8000:
   ```
   python manage.py runserver
