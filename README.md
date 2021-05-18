@@ -2,6 +2,10 @@
 
 Welcome to our Neural Network Workshop at [ShellHacks 2020](https://shellhacks.net/)!
 
+## Demo
+
+![ShellHacks 2020 NN Demo gif](https://media.giphy.com/media/RDzQHX1oUmp1dYoO9d/giphy.gif)
+
 ## Contents
 ---
   #### DeRes Script
@@ -13,7 +17,7 @@ Welcome to our Neural Network Workshop at [ShellHacks 2020](https://shellhacks.n
   
   - Model used: Convolutional Neural Network (CNN)
     
-##### Steps to start the Django Server in localhost:8000
+## Steps to start the Django Server in localhost:8000
     
   1. Open up Anaconda3 command prompt or regular command prompt
   
